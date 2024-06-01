@@ -8,6 +8,8 @@ my-dynamic-website/
 |-- functions/
 |   |-- main.py
 |   |-- requirements.txt
+|   |-- index.js
 |-- public/
 |-- .firebaserc
 |-- firebase.json
+
